@@ -24,10 +24,107 @@
   color: white;
 }
 
+input{
+  background: image("./glass.png") top left no repeat;
+}
+
 .App-link {
   color: #61dafb;
 }
 
+.Bar-color{
+  background-color: #488CC2;
+  font-size:x-large;
+  color: white;
+  text-align: center;
+}
+
+.eyefind{
+  width: 15%;
+  padding-right: 300px;
+}
+.weather{
+  width: 15%;
+  padding-left: 30‒;
+  padding-left: 150px;
+}
+.outer
+{
+  background-color: #F0F0F0;
+  text-align: left;
+  margin-left: 7%;
+  margin-right: 4%;
+
+}
+.featured{
+  font-size:larger;
+}
+.top-favicon{
+  width: 30px;
+  padding: 10px;
+  padding-bottom: 0px;
+}
+.favicon{
+  margin-right: 30px;
+  border-right: 30px;
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+}
+.inner
+{
+  background-color: #F0F0F0;
+  display: flex;
+}
+
+.widget-size
+{
+  width: 5%;
+  display: flex;
+  flex-grow: 5;
+  padding: 5px;
+}
+.navbar
+{
+  padding: 10px;
+  width: 20%;
+  /*215px*/
+  outline: none;
+  border-color:#C8C8C8;
+  border-width: 0.5px;
+  outline: none;
+}
+.random-button
+{
+  background-color: #02728F;
+  color: white;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 16px;
+  border: none;
+  height: 61px;
+  width: 270px;
+  margin: 40px;
+}
+.thin-bar
+{
+  background-color: #F9C100;
+  height: 5px;
+}
+
+.search-random
+{
+  background-color: #488CC2;
+  height: 100%;
+}
+
+.searchbar{
+  height: 61px;
+  width: 936px;
+  border-radius: 4px;
+  border: none;
+  font-size: xx-large;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

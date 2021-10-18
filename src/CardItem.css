@@ -1,0 +1,20 @@
+.dual-background
+{
+    background-color: linear-gradient(to bottom, #F4BD1C 0%, #F4BD1C 10%, #027290 10%, #027290 0%);
+}
+
+.box{
+    background-image: linear-gradient(to bottom, #F4BD1C 0%, #F4BD1C 2%, #027290 0%, #027290 0%);
+    color: white;
+    line-height: 2em;
+    width: 28%;
+}
+
+.ads
+{
+    margin: auto;
+    
+    max-width: 90%;
+    position: relative;
+    padding: 5px;
+}
