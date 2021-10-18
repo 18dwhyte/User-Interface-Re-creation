@@ -1,3 +1,5 @@
+Description!
+---------------
 I re-created an User Interface from Rockstar's game, Grand Theft Auto 5. I used React.js, javascript, HTML, and CSS to do this.
 
 I used this image from Google Images to design the layout of my mock website.
@@ -10,3 +12,8 @@ Upon building the site, I realized that the images under 'SPONSORED ADVERT' and 
 This is what my version looks like
 <img width="1440" alt="Mock-Interface" src="https://user-images.githubusercontent.com/61035062/137812437-f0eb1b69-689a-4768-98a4-39fbd6a88851.png">
 
+Instructions!
+-----------------
+1. Clone the repository
+2. Open a terminal and use "npm start" to start a development server
+3. A new webpage should automatically appear showing the site, or open localhost:3000 on any web browser.
